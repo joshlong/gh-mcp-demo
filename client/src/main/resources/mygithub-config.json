@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "github": {
+      "command": "/Users/jlong/Desktop/github-mcp-server/cmd/github-mcp-server/github-mcp-server" ,
+      "args" : ["stdio"]
+    }
+  }
+}
